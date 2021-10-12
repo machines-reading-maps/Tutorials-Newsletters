@@ -1,0 +1,15 @@
+name, https://www.wikidata.org/wiki/Q28129886
+type, https://www.wikidata.org/wiki/Q11302705
+information, https://www.wikidata.org/wiki/Q11028
+transcription, https://www.wikidata.org/wiki/Q207714
+built, https://www.wikidata.org/wiki/Q4986688
+natural, https://www.wikidata.org/wiki/Q43619
+administrative, https://www.wikidata.org/wiki/Q3754526
+private, https://www.wikidata.org/wiki/Q3248417
+public, https://www.wikidata.org/wiki/Q294440
+commercial, https://www.wikidata.org/wiki/Q655686
+dwelling, https://www.wikidata.org/wiki/Q699405
+worship, https://www.wikidata.org/wiki/Q1370598
+industrial, https://www.wikidata.org/wiki/Q6027510
+monumental, https://www.wikidata.org/wiki/Q4989906
+historical, https://www.wikidata.org/wiki/Q27916659
