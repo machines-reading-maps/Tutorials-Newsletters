@@ -2,7 +2,11 @@ Welcome to "Reading and Linking Places in Text and Maps". These series of two ev
 
 More information about "Reading and Linking Places in Text and Maps", and a link to register, can be found on our [Eventbrite page](https://www.eventbrite.co.uk/e/reading-and-linking-places-in-text-and-maps-tickets-219024988637). Please, remember to also register to [Linked Pasts](https://www.ghentcdh.ugent.be/linked-pasts-vii-symposium) if you wish to attend.
 
-In this space we will share useful resources for participants to the workshop that is taking place on 15 December 2021, 15:00-18:00 GMT
+In this space we will share useful resources for participants to the workshop that is taking place on 15 December 2021, 15:00-18:00 GMT. Before we start, here is a reminder of our [code of conduct](https://www.turing.ac.uk/events/policies-and-guidelines).
+
+Now we're ready to go!
+
+During this workshop we will look at different approaches to annotation of place references using two closely related platforms. In the first half, we'll be looking at annotation of place-names in text, using the popular Recogito annotation platform, devloped by Rainer Simon for Pelagios. In the second half, we will move on to a different version of Recogito that features machine learning capabilities thanks to the cmputer vision model called mapKurator and developed by Zekun Li and YaoYi Chiang.
 
 ### [Public instance of Recogito](https://recogito.pelagios.org/):
 
@@ -28,7 +32,7 @@ To download and upload on your personal space
 
 ### [Machines Reading Maps instance of Recogito](https://recogito.uksouth.cloudapp.azure.com/)
 
-This bespoke instance of Recogito has been developed specifically for the annotation of maps, and has been integrated with a computer vision model called mapKurator. You need a separate account at this address to use this instance of Recogito, and your account needs to be activated. Please, bear in mind that this version of Recogito is not publicly available and it doesn't run 24/7. We recommend to creare your account on the day before the workshop, anytime between 9:00 and 18:00 GMT, and that you email your username to rainer.simon[at]ait.ac.at. Activation on the day of the workshop may not be possible, so, please, ensure that your account is activated beforehand.
+This bespoke instance of Recogito has been developed specifically for the annotation of maps, and has been integrated with mapKurator. You need a separate account at this address to use this instance of Recogito, and your account needs to be activated. Please, bear in mind that this version of Recogito is not publicly available and it doesn't run 24/7. We recommend to creare your account on the day before the workshop, anytime between 9:00 and 18:00 GMT, and that you email your username to rainer.simon[at]ait.ac.at. Activation on the day of the workshop may not be possible, so, please, ensure that your account is activated beforehand.
 
 **Tutorial for the MRM instance of Recogito**
 - [Uploading images](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Uploading-a-map)
