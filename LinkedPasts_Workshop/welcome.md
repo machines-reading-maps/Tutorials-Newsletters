@@ -8,7 +8,7 @@ In this space we will share useful resources for participants to the workshop th
 
 To annotate the documents you need to create a free account. You then will be immediately able to use the platform.
 
-**[Recogito Tutorial](https://github.com/pelagios/pelagios.github.io/wiki)
+**[Recogito Tutorial](https://github.com/pelagios/pelagios.github.io/wiki)**
 
 Text documents
 To annotate collaboratively
