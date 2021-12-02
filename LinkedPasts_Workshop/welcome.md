@@ -11,13 +11,16 @@ To annotate the documents you need to create a free account. You then will be im
 **[Recogito Tutorial](https://github.com/pelagios/pelagios.github.io/wiki)**
 
 Text documents
+
 To annotate collaboratively
+
 1. Text link (short, ideal for manual annotation)
 2. Text link (short, ideal for manual annotation)
 3. Text link (long, ideal for automatic annotation)
 4. The travels of Ibn Battuta text link
 
 To download and upload on your personal space
+
 1. Text file (short, ideal for manual annotation)
 2. Text file (short, ideal for manual annotation)
 3. text file (long, ideal for automatic annotation)
@@ -38,13 +41,16 @@ This bespoke instance of Recogito has been developed specifically for the annota
 - [Vocabularies](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Annotation-preferences)
 - [Editing automatic annotations](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Editing-automatic-annotations)
 
+Images to annotate collaboratively
 
-IIIF link London for manual annotation
-IIIF link Scottish place for automatic annotation
-WMTS link for place in UK
+- IIIF link London for manual annotation
+- IIIF link Scottish place for automatic annotation
+- WMTS link for place in UK
 
-Image link Ireland
-Image link Ireland
-Image link Ireland
-Image link Ireland
-Image link Ireland
+- Image link Ireland
+- Image link Ireland
+- Image link Ireland
+- Image link Ireland
+- Image link Ireland
+
+Images to download and upload on your personal workspace
