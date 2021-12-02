@@ -1,4 +1,4 @@
-## Welcome to "Reading and Linking Places in Text and Maps".## 
+## Welcome to "Reading and Linking Places in Text and Maps". ## 
 
 This series of two events is organised by Valeria Vitale and Katie McDonough (The Alan Turing Institute), Catherine Porter (University of Limerick), and Keith Lilley (Queen's University Belfast) as part of the Linked Pasts 7 Symposium.
 
