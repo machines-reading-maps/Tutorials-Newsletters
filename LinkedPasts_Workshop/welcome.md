@@ -4,7 +4,7 @@ More information about "Reading and Linking Places in Text and Maps", and a link
 
 In this space we will share useful resources for participants to the workshop that is taking place on 15 December 2021, 15:00-18:00 GMT
 
-###[Public instance of Recogito](https://recogito.pelagios.org/):### 
+###[Public instance of Recogito](https://recogito.pelagios.org/):
 
 To annotate the documents you need to create a free account. You then will be immediately able to use the platform.
 [Recogito Tutorial](https://github.com/pelagios/pelagios.github.io/wiki)
