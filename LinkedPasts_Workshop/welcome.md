@@ -28,15 +28,15 @@ To download and upload on your personal space
 This bespoke instance of Recogito has been developed specifically for the annotation of maps, and has been integrated with a computer vision model called mapKurator. You need a separate account at this address to use this instance of Recogito, and your account needs to be activated. Please, bear in mind that this version of Recogito is not publicly available and it doesn't run 24/7. We recommend to creare your account on the day before the workshop, anytime between 9:00 and 18:00 GMT, and that you email your username to rainer.simon[at]ait.ac.at. Activation on the day of the workshop may not be possible, so, please, ensure that your account is activated beforehand.
 
 **Tutorial for the MRM instance of Recogito**
-[Uploading images](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Uploading-a-map)
-[Annotation Tools](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Document-view-and-annotation-tools)
-[Launching mapKurator](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Launching-mapKurator)
-[Annotation categories](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/The-annotation-interface)
-Transcription, Comments and Tags
-Grouping
-[Geotagging](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Geotagging)
-[Vocabularies](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Annotation-preferences)
-[Editing automatic annotations](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Editing-automatic-annotations)
+- [Uploading images](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Uploading-a-map)
+- [Annotation Tools](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Document-view-and-annotation-tools)
+- [Launching mapKurator](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Launching-mapKurator)
+- [Annotation categories](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/The-annotation-interface)
+- Transcription, Comments and Tags
+- Grouping
+- [Geotagging](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Geotagging)
+- [Vocabularies](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Annotation-preferences)
+- [Editing automatic annotations](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Editing-automatic-annotations)
 
 
 IIIF link London for manual annotation
