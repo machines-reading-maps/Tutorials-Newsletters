@@ -1,4 +1,6 @@
-Welcome to "Reading and Linking Places in Text and Maps". These series of two events is organised by Valeria Vitale and Katie McDonough (The Alan Turing Institute), Catherine Porter (University of Limerick), and Keith Lilley (Queen's University Belfast) as part of the Linked Pasts 7 Symposium.
+## Welcome to "Reading and Linking Places in Text and Maps".## 
+
+This series of two events is organised by Valeria Vitale and Katie McDonough (The Alan Turing Institute), Catherine Porter (University of Limerick), and Keith Lilley (Queen's University Belfast) as part of the Linked Pasts 7 Symposium.
 
 More information about "Reading and Linking Places in Text and Maps", and a link to register, can be found on our [Eventbrite page](https://www.eventbrite.co.uk/e/reading-and-linking-places-in-text-and-maps-tickets-219024988637). Please, remember to also register to [Linked Pasts](https://www.ghentcdh.ugent.be/linked-pasts-vii-symposium) if you wish to attend.
 
