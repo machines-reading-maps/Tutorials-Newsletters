@@ -66,6 +66,7 @@ All times in GMT
 
 17:20 Discussion and feedback
 
+## Workshop Resources ##
 
 ### [Public instance of Recogito](https://recogito.pelagios.org/):
 
@@ -74,15 +75,18 @@ To annotate the documents you need to create a free account. You then will be im
 **[Recogito Tutorial](https://github.com/pelagios/pelagios.github.io/wiki)**
 
 Text documents
+We have selected two documents, in text format, from the OS200 corpus. During the workshop, we will also suggest some possible approaches to annotation. You are also very welcome to choose your own annotation perspective, and to work on any document that is relevant to you. Please, just bear in mind that Recogito can only process documents in .txt format.
 
-To annotate collaboratively
+If you want to practice more, we have also added some other textual documents, not related to 19th century Ireland, that you can use.
 
-1. Text link (short, ideal for manual annotation)
-2. Text link (short, ideal for manual annotation)
-3. Text link (long, ideal for automatic annotation)
-4. The travels of Ibn Battuta text link
+## Links to documents in Recogito (to annotate collaboratively ##
 
-To download and upload on your personal space
+1. Parish of Drumbo: https://recogito.pelagios.org/document/dpayl1mr3tkaoi
+2. Parish of Drumbeg: https://recogito.pelagios.org/document/wigvbqkgqnrhjg
+3. Bundle document: text+images
+4. Pero Tafur's Travels and adventures: https://recogito.pelagios.org/document/yinerzdrstnfhu
+
+## Links to documents to download, and upload on your private Recogito space ##
 
 1. Text file (short, ideal for manual annotation)
 2. Text file (short, ideal for manual annotation)
