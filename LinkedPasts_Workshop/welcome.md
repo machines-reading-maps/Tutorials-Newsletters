@@ -20,16 +20,29 @@ All times in GMT
 
 
 15:15 Intro to the [Machines Reading Maps](https://www.turing.ac.uk/research/research-projects/machines-reading-maps) project (Katie)
+
+
 15:25 Intro to the [OS200](https://storymaps.arcgis.com/stories/7cedc565e15e4ba58444f9eaf435d1de) project (Keith)
+
+
 15:35 A few words about the OS200 corpus (Cat)
+
+
 15:40 Pelagios Recogito demo (Valeria)
+
 - Uploading Text Documents
 - Creating annotations
 - Comparative mode
 - Visualisation options
 - Annotating Relations
+
+
 16:00 Some annotation perspectives (Cat)
+
+
 16:05 Hands-on annotation
+
+
 16:20 Turing Recogito demo (Valeria)
 - [Uploading images](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Uploading-a-map)
 - [Annotation Tools](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Document-view-and-annotation-tools)
@@ -40,9 +53,17 @@ All times in GMT
 - [Geotagging](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Geotagging)
 - [Vocabularies](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Annotation-preferences)
 - [Editing automatic annotations](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Editing-automatic-annotations)
+
+
 16:35 Some annotation perspectives (Keith)
+
+
 16:45 Break
+
+
 17:00 Hands-on annotation
+
+
 17:20 Discussion and feedback
 
 
