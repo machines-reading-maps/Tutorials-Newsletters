@@ -14,7 +14,11 @@ During this workshop we will look at different approaches to annotation of place
 All times in GMT
 
 15:00 Welcome and Housekeeping
+
+
 15:05 Brief intro to the workshop: its aims and structure (Valeria) 
+
+
 15:15 Intro to the [Machines Reading Maps](https://www.turing.ac.uk/research/research-projects/machines-reading-maps) project (Katie)
 15:25 Intro to the [OS200](https://storymaps.arcgis.com/stories/7cedc565e15e4ba58444f9eaf435d1de) project (Keith)
 15:35 A few words about the OS200 corpus (Cat)
