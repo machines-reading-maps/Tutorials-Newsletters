@@ -99,23 +99,23 @@ This bespoke instance of Recogito has been developed specifically for the annota
 
 **[Tutorial for the Turing instance of Recogito](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)**
 
-## Links to images in Recogito (to annotate collaboratively, manually) ##
+### Links to images in Recogito (to annotate collaboratively, manually) ###
 
 - [Map of Dublin 1847 (image upload)](http://recogito.uksouth.cloudapp.azure.com/document/fdf4xyzgsgyiqf)
 - [Map of Dublin 1847 vector (image upload)](https://recogito.uksouth.cloudapp.azure.com/document/chgfcabh9ugrqh/settings?tab=sharing)
 - [Map of London (IIIF upload)](http://recogito.uksouth.cloudapp.azure.com/document/xqxea0biatnarm)
 - [Map of Belfast (image upload)](http://recogito.uksouth.cloudapp.azure.com/document/hmmsdog3vnwf0c)
 
-## Links to images in Recogito that have been pre-processed with mapKurator (to annotate collaboratively) ##
+### Links to images in Recogito that have been pre-processed with mapKurator (to annotate collaboratively) ###
 - [Map of Belfast](https://recogito.uksouth.cloudapp.azure.com/document/aa7mjufod0nwgi/settings?tab=sharing) 
 - [Historical map of California](http://recogito.uksouth.cloudapp.azure.com/document/ucxbhvdnbct1uu)
 - [Map of Dublin 1847](http://recogito.uksouth.cloudapp.azure.com/document/aazhz3rtdmx4rs)
 
-## Links to images to download and import in Recogito ##
+### Links to images to download and import in Recogito ###
 - [Map of London (IIIF upload)](https://map-view.nls.uk/iiif/2/10331%2F103313321/info.json)
 - [Map of York (IIIF upload)](https://map-view.nls.uk/iiif/2/12563%2F125637277/info.json)
 
-## Links to smaller images, if you want to test mapKurator yourself ##
+### Links to smaller images, if you want to test mapKurator yourself ###
 - [OS Snippet 01](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/WorkshopImages/uk_0.jpg)
 - [OS Snippet 02](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/WorkshopImages/uk_1.jpg)
 - [OS Snippet 03](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/WorkshopImages/uk_3.jpg)
