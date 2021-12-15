@@ -111,9 +111,10 @@ This bespoke instance of Recogito has been developed specifically for the annota
 - [Historical map of California](http://recogito.uksouth.cloudapp.azure.com/document/ucxbhvdnbct1uu)
 - [Map of Dublin 1847](http://recogito.uksouth.cloudapp.azure.com/document/aazhz3rtdmx4rs)
 
-### Links to images to download and import in Recogito ###
+### Links to images to import in Recogito ###
 - [Map of London (IIIF upload)](https://map-view.nls.uk/iiif/2/10331%2F103313321/info.json)
 - [Map of York (IIIF upload)](https://map-view.nls.uk/iiif/2/12563%2F125637277/info.json)
+- Composite OS map of Scotlans (WMTS)(https://wmts.maptiler.com/aHR0cDovL3dtdHMubWFwdGlsZXIuY29tL2FIUjBjSE02THk5dFlYQnpaWEpwWlhNdGRHbHNaWE5sZEhNdWN6TXVZVzFoZW05dVlYZHpMbU52YlM4eU5WOXBibU5vTDNsdmNtdHphR2x5WlM5dFpYUmhaR0YwWVM1cWMyOXUvanNvbg/wmts
 
 ### Links to smaller images, if you want to test mapKurator yourself ###
 - [OS Snippet 01](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/WorkshopImages/uk_0.jpg)
