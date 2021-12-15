@@ -83,30 +83,20 @@ If you want to practice more, we have also added some other textual documents, n
 
 1. Parish of Drumbo: https://recogito.pelagios.org/document/dpayl1mr3tkaoi
 2. Parish of Drumbeg: https://recogito.pelagios.org/document/wigvbqkgqnrhjg
-3. Bundle document: text+images: 
+3. Bundle document: text+images: https://recogito.pelagios.org/document/fkq3pqfgofa1lz
 4. Pero Tafur's Travels and adventures: https://recogito.pelagios.org/document/yinerzdrstnfhu
 
 ## Links to documents to download, and upload on your private Recogito space ##
 
 1. [Parish of Drumbo](https://drive.google.com/file/d/1vcJ8qWqVA0oHXTZV4wMhvmlgFz66jvmo/view?usp=sharing)
 2. [Parish of Drumbeg](https://drive.google.com/file/d/1OONixPWQ0i1cKQ68E7-BRwEp0i0bGVVZ/view?usp=sharing)
-3. Bundle document: text+images (zip format)
-4. Pero Tafur's Travels and adventures:
+3. Pero Tafur's Travels and adventures:
 
 ### [Machines Reading Maps instance of Recogito](https://recogito.uksouth.cloudapp.azure.com/)
 
 This bespoke instance of Recogito has been developed specifically for the annotation of maps, and has been integrated with mapKurator. You need a separate account at this address to use this instance of Recogito, and your account needs to be activated. Please, bear in mind that this version of Recogito is not publicly available and it doesn't run 24/7. We recommend to creare your account on the day before the workshop, anytime between 9:00 and 18:00 GMT, and that you email your username to rainer.simon[at]ait.ac.at. Activation on the day of the workshop may not be possible, so, please, ensure that your account is activated beforehand.
 
-**Tutorial for the MRM instance of Recogito**
-- [Uploading images](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Uploading-a-map)
-- [Annotation Tools](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Document-view-and-annotation-tools)
-- [Launching mapKurator](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Launching-mapKurator)
-- [Annotation categories](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/The-annotation-interface)
-- Transcription, Comments and Tags
-- Grouping
-- [Geotagging](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Geotagging)
-- [Vocabularies](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Annotation-preferences)
-- [Editing automatic annotations](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Editing-automatic-annotations)
+**[Tutorial for the Turing instance of Recogito](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)**
 
 ## Links to images in Recogito (to annotate collaboratively, manually)##
 
