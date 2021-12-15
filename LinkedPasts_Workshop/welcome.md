@@ -30,11 +30,13 @@ All times in GMT
 
 15:40 Pelagios Recogito demo (Valeria)
 
-- Uploading Text Documents
-- Creating annotations
+- [Uploading Text Documents](https://github.com/pelagios/pelagios.github.io/wiki/Recogito-Tutorial:-Uploading-modes)
+- [Creating manual annotations](https://github.com/pelagios/pelagios.github.io/wiki/Recogito-Tutorial:-Creating-Place-Annotations)
+- [Creating semi-automatic annotation with NER](https://github.com/pelagios/pelagios.github.io/wiki/Recogito-Tutorial:-NER-algorithms)
 - Comparative mode
-- Visualisation options
-- Annotating Relations
+- [Map visualisation options](https://github.com/pelagios/pelagios.github.io/wiki/Recogito-Tutorial:-Map-View)
+- [Annotating Relations](https://github.com/pelagios/pelagios.github.io/wiki/Recogito-Tutorial:-Annotating-Relations)
+- [Download options for text](https://github.com/pelagios/pelagios.github.io/wiki/Recogito-Tutorial:-Download-Options-for-Text)
 
 
 16:00 Some annotation perspectives (Cat)
@@ -79,14 +81,14 @@ We have selected two documents, in text format, from the OS200 corpus. During th
 
 If you want to practice more, we have also added some other textual documents, not related to 19th century Ireland, that you can use.
 
-## Links to documents in Recogito (to annotate collaboratively) ##
+### Links to documents in Recogito (to annotate collaboratively) ###
 
 1. Parish of Drumbo: https://recogito.pelagios.org/document/dpayl1mr3tkaoi
 2. Parish of Drumbeg: https://recogito.pelagios.org/document/wigvbqkgqnrhjg
 3. Bundle document: text+images: https://recogito.pelagios.org/document/fkq3pqfgofa1lz
 4. Pero Tafur's Travels and adventures: https://recogito.pelagios.org/document/yinerzdrstnfhu
 
-## Links to documents to download, and upload on your private Recogito space ##
+### Links to documents to download, and upload on your private Recogito space ###
 
 1. [Parish of Drumbo](https://drive.google.com/file/d/1vcJ8qWqVA0oHXTZV4wMhvmlgFz66jvmo/view?usp=sharing)
 2. [Parish of Drumbeg](https://drive.google.com/file/d/1OONixPWQ0i1cKQ68E7-BRwEp0i0bGVVZ/view?usp=sharing)
@@ -104,16 +106,17 @@ This bespoke instance of Recogito has been developed specifically for the annota
 - [Map of London (IIIF upload)](http://recogito.uksouth.cloudapp.azure.com/document/xqxea0biatnarm)
 - [Map of Belfast (image upload)](http://recogito.uksouth.cloudapp.azure.com/document/hmmsdog3vnwf0c)
 
-## Links to images in Recogito that have been pre-processed with mapKurator (to annotate collaboratively, manually)##
+## Links to images in Recogito that have been pre-processed with mapKurator (to annotate collaboratively) ##
 - [Map of Belfast](https://recogito.uksouth.cloudapp.azure.com/document/aa7mjufod0nwgi/settings?tab=sharing) 
 - [Historical map of California](http://recogito.uksouth.cloudapp.azure.com/document/ucxbhvdnbct1uu)
-- Map of York
+- [Map of Dublin 1847](http://recogito.uksouth.cloudapp.azure.com/document/aazhz3rtdmx4rs)
 
 ## Links to images to download and import in Recogito ##
 - [Map of London (IIIF upload)](https://map-view.nls.uk/iiif/2/10331%2F103313321/info.json)
 - [Map of York (IIIF upload)](https://map-view.nls.uk/iiif/2/12563%2F125637277/info.json)
 
 ## Links to smaller images, if you want to test mapKurator yourself ##
-- Snippet 01
-- Snippet 02
-- Snippet 03
+- [OS Snippet 01](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/WorkshopImages/uk_0.jpg)
+- [OS Snippet 02](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/WorkshopImages/uk_1.jpg)
+- [OS Snippet 03](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/WorkshopImages/uk_3.jpg)
+- [OS Ireland map](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/LinkedPasts_Workshop/documents/OS-6-1-65-1_inside.tif)
