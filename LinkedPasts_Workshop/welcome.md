@@ -66,7 +66,7 @@ All times in GMT
 17:00 Hands-on annotation
 
 
-17:20 Discussion and feedback
+17:20 Discussion and feedback (Katie)
 
 ## Workshop Resources ##
 
