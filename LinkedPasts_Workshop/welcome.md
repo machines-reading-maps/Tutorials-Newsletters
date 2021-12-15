@@ -79,19 +79,19 @@ We have selected two documents, in text format, from the OS200 corpus. During th
 
 If you want to practice more, we have also added some other textual documents, not related to 19th century Ireland, that you can use.
 
-## Links to documents in Recogito (to annotate collaboratively ##
+## Links to documents in Recogito (to annotate collaboratively) ##
 
 1. Parish of Drumbo: https://recogito.pelagios.org/document/dpayl1mr3tkaoi
 2. Parish of Drumbeg: https://recogito.pelagios.org/document/wigvbqkgqnrhjg
-3. Bundle document: text+images
+3. Bundle document: text+images: 
 4. Pero Tafur's Travels and adventures: https://recogito.pelagios.org/document/yinerzdrstnfhu
 
 ## Links to documents to download, and upload on your private Recogito space ##
 
-1. Text file (short, ideal for manual annotation)
-2. Text file (short, ideal for manual annotation)
-3. text file (long, ideal for automatic annotation)
-4. The travels of Ibn Battuta text file (long, ideal for automatic annotation)
+1. [Parish of Drumbo](https://drive.google.com/file/d/1vcJ8qWqVA0oHXTZV4wMhvmlgFz66jvmo/view?usp=sharing)
+2. [Parish of Drumbeg](https://drive.google.com/file/d/1OONixPWQ0i1cKQ68E7-BRwEp0i0bGVVZ/view?usp=sharing)
+3. Bundle document: text+images (zip format)
+4. Pero Tafur's Travels and adventures:
 
 ### [Machines Reading Maps instance of Recogito](https://recogito.uksouth.cloudapp.azure.com/)
 
@@ -108,16 +108,24 @@ This bespoke instance of Recogito has been developed specifically for the annota
 - [Vocabularies](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Annotation-preferences)
 - [Editing automatic annotations](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Editing-automatic-annotations)
 
-Images to annotate collaboratively
+## Links to images in Recogito (to annotate collaboratively, manually)##
 
-- IIIF link London for manual annotation
-- IIIF link Scottish place for automatic annotation
-- WMTS link for place in UK
+- Map of Dublin (image upload)
+- Map of Dublin (image upload)
+- Map of London (IIIF upload)
+- Map of Edinburgh (IIIF upload)
+- Map of Belfast (image upload)
 
-- Image link Ireland
-- Image link Ireland
-- Image link Ireland
-- Image link Ireland
-- Image link Ireland
+## Links to images in Recogito that have been pre-processed with mapKurator (to annotate collaboratively, manually)##
+- Map of London
+- Map of Belfast
+- Map of Dublin
+- Map of Yorkshire
 
-Images to download and upload on your personal workspace
+## Links to images to download and import in Recogito ##
+- Map of Dublin (image upload)
+- Map of London (IIIF upload)
+- Map of Edinburgh (IIIF upload)
+- Map of Yorkshire
+
+## Links to smaller images, if you want to test mapKurator yourself ##
