@@ -90,7 +90,6 @@ If you want to practice more, we have also added some other textual documents, n
 
 1. [Parish of Drumbo](https://drive.google.com/file/d/1vcJ8qWqVA0oHXTZV4wMhvmlgFz66jvmo/view?usp=sharing)
 2. [Parish of Drumbeg](https://drive.google.com/file/d/1OONixPWQ0i1cKQ68E7-BRwEp0i0bGVVZ/view?usp=sharing)
-3. Pero Tafur's Travels and adventures:
 
 ### [Machines Reading Maps instance of Recogito](https://recogito.uksouth.cloudapp.azure.com/)
 
@@ -98,24 +97,23 @@ This bespoke instance of Recogito has been developed specifically for the annota
 
 **[Tutorial for the Turing instance of Recogito](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)**
 
-## Links to images in Recogito (to annotate collaboratively, manually)##
+## Links to images in Recogito (to annotate collaboratively, manually) ##
 
-- Map of Dublin (image upload)
-- Map of Dublin (image upload)
-- Map of London (IIIF upload)
-- Map of Edinburgh (IIIF upload)
-- Map of Belfast (image upload)
+- [Map of Dublin 1847 (image upload)](http://recogito.uksouth.cloudapp.azure.com/document/fdf4xyzgsgyiqf)
+- [Map of Dublin 1847 vector (image upload)](https://recogito.uksouth.cloudapp.azure.com/document/chgfcabh9ugrqh/settings?tab=sharing)
+- [Map of London (IIIF upload)](http://recogito.uksouth.cloudapp.azure.com/document/xqxea0biatnarm)
+- [Map of Belfast (image upload)](http://recogito.uksouth.cloudapp.azure.com/document/hmmsdog3vnwf0c)
 
 ## Links to images in Recogito that have been pre-processed with mapKurator (to annotate collaboratively, manually)##
-- Map of London
-- Map of Belfast
-- Map of Dublin
-- Map of Yorkshire
+- [Map of Belfast](https://recogito.uksouth.cloudapp.azure.com/document/aa7mjufod0nwgi/settings?tab=sharing) 
+- [Historical map of California](http://recogito.uksouth.cloudapp.azure.com/document/ucxbhvdnbct1uu)
+- Map of York
 
 ## Links to images to download and import in Recogito ##
-- Map of Dublin (image upload)
-- Map of London (IIIF upload)
-- Map of Edinburgh (IIIF upload)
-- Map of Yorkshire
+- [Map of London (IIIF upload)](https://map-view.nls.uk/iiif/2/10331%2F103313321/info.json)
+- [Map of York (IIIF upload)](https://map-view.nls.uk/iiif/2/12563%2F125637277/info.json)
 
 ## Links to smaller images, if you want to test mapKurator yourself ##
+- Snippet 01
+- Snippet 02
+- Snippet 03
