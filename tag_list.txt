@@ -1,0 +1,6 @@
+area	https://www.wikidata.org/wiki/Q56061
+street	https://www.wikidata.org/wiki/Q34442
+building	https://www.wikidata.org/wiki/Q41176
+natural	https://www.wikidata.org/wiki/Q618123
+other	https://www.wikidata.org/wiki/Q55107540
+check	https://www.wikidata.org/wiki/Q104378399
